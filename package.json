@@ -1,0 +1,37 @@
+{
+  "name": "minecraft-server-badge",
+  "version": "1.0.0",
+  "description": "Generate Minecraft server status badge URLs. Uses the free API from minecraft-serverhub.com",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": [
+    "minecraft",
+    "server",
+    "badge",
+    "status",
+    "svg",
+    "embed",
+    "minecraft-server",
+    "server-status",
+    "widget"
+  ],
+  "author": "Minecraft ServerHub <hello@minecraft-serverhub.com>",
+  "license": "MIT",
+  "homepage": "https://minecraft-serverhub.com/tools/server-badge",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DraginoxXx/minecraft-server-badge"
+  },
+  "bugs": {
+    "url": "https://github.com/DraginoxXx/minecraft-server-badge/issues"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
